@@ -1,4 +1,4 @@
-#!/bin/usr/env python3
+#!/usr/bin/env python3
 """more involed type annotations"""
 from typing import Mapping, Any, Union, TypeVar
 
