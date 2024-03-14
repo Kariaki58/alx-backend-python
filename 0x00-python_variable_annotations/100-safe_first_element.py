@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Duck typing - first elment"""
 from typing import Sequence, Any, Union
 
