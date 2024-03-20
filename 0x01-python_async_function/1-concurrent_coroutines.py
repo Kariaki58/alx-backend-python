@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """lets execute multiple coroutines at the same time"""
 from typing import List
+import asyncio
 wait_random = __import__('0-basic_async_syntax').wait_random
 
 
